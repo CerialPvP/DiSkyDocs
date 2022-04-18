@@ -11,6 +11,11 @@
             "id": "install"
         },
         {
+            "name": "Application Commnads",
+            "title": "Application Commnads",
+            "id": "app-commands"
+        },
+        {
             "name": "How to contribute?",
             "title": "How to contribute?",
             "id": "contribute"
