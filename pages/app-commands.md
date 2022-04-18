@@ -1,6 +1,6 @@
 # Application Commands
 
-> :warning: Before reading the rest of the tutorial, check out [Installation](https://disky.tech/wiki/?page=install), [Bot Creation](https://disky.tech/wiki/?page=bot-creation) and [Bot Loading](https://disky.tech/wiki/?page=bot-loading).
+> :warning: Before reading the rest of the tutorial, check out [Installation](?page=install), [Bot Creation](?page=bot-creation) and [Bot Loading](?page=bot-loading).
 
 **Application Commands**, or more commonly known as **Slash Commands**, are commands used in Discord which are prefixed with a slash `/`. Slash commands offer:
 
